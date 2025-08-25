@@ -1,0 +1,75 @@
+body{
+    background-image:url(image/plan.jpg) ;
+      
+        
+}
+
+a{
+    text-decoration: none;
+    padding: 100px;
+    
+}
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: skyblue;
+    color: black;
+         }
+tr,td {
+    padding: 10px
+    
+    
+}
+    label{
+       color: black
+    }
+    button{
+        color: blue;
+    }
+   .contact-container{
+        max-width: 400px;
+        margin: auto;
+        background: skyblue;
+        padding: 30px;
+        border-radius: 9px;
+        box-shadow: black;
+    }
+    h2{
+        text-align: left;
+        color: black;
+    }
+    label{
+        font-weight: bold;
+        display: block;
+        margin: 12px;
+    }
+    input, textarea{
+        width: 100px;
+        padding: 10px;
+        margin-bottom: 12px;
+        border: 1px solid rgb(245, 10, 174);
+        border-radius: 6px;
+    }
+    button{
+        background: blue;
+        color: white;
+        border: none;
+        padding: 10px;
+        width: 100%;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    button:hover{
+        background: pink
+    }
+    .coontact-info{
+        margin-top: 20px;
+        text-align: left;
+    }
+    .social-links{
+        margin: 10px;
+        text-decoration: none;
+        font-size: 20px;
+        color: blue;
+        text-align: right;
+    }
